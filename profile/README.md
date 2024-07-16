@@ -18,7 +18,7 @@ In an era of increasingly sophisticated cyber threats, OpenArmor leads the way i
 
 <div align="center">
 
----
+
 
 ### 🛡️ Core Capabilities
 
@@ -31,12 +31,12 @@ In an era of increasingly sophisticated cyber threats, OpenArmor leads the way i
 
 <div align="center">
 
----
+
 
 ## The OpenArmor Advantage
 
 | Innovation | Description |
-|:----------:|:-----------:|
+|:-:|:--:|
 | 🧠 AI Security Fabric | Low-latency threat detection powered by machine learning |
 | 🌐 Secure Cloud Integration | Seamless protection across hybrid and multi-cloud environments |
 | 🔍 Predictive Analytics | Anticipate potential vulnerabilities using advanced data analysis |
@@ -46,7 +46,7 @@ In an era of increasingly sophisticated cyber threats, OpenArmor leads the way i
 
 <div align="center">
 
----
+
 
 ### 🚀 Start Your Security Transformation
 
@@ -56,7 +56,7 @@ In an era of increasingly sophisticated cyber threats, OpenArmor leads the way i
 
 <div align="center">
 
----
+
 
 ## Connect With Us
 
@@ -68,7 +68,7 @@ In an era of increasingly sophisticated cyber threats, OpenArmor leads the way i
 
 <div align="center">
 
----
+
 
 ### What Our Clients Say
 
@@ -80,7 +80,7 @@ In an era of increasingly sophisticated cyber threats, OpenArmor leads the way i
 
 <div align="center">
 
----
+
 
 ## Empower Your Cybersecurity Strategy
 
@@ -92,7 +92,7 @@ By choosing OpenArmor, you're not just implementing a security solution – you'
 
 <div align="center">
 
----
+
 
 *OpenArmor Cybersecurity © 2024 | Innovative, AI-driven security for the modern enterprise*
 
